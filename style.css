@@ -13,7 +13,8 @@ body {
 }
 #titulo {
     text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
    
     
      
@@ -35,9 +36,11 @@ body {
  #licoes_aprendidas {
      background-color: rgb(91, 163, 23);
      width: 400px;
-     margin-left: 450px;
+     margin-left: auto;
+     margin-right: auto;
      color:black;
      border-radius: 20px;
+     font-family:cursive;
    
      
      
@@ -47,7 +50,8 @@ body {
 #licoes_a_aprender {
     background-color: rgb(15, 161, 15);
     width: 400px;
-    margin-left: 450px;
+   margin-left: auto;
+   margin-right: auto;
     border-radius: 20px;
     
 
@@ -56,24 +60,32 @@ body {
 #artigo {
 background-color: rgb(74, 206, 74);
 width: 400px;
-margin-left: 450px;
+
 top:100px;
 line-height: 20px;
 border-radius: 20px;
 
 }
+.lado-direito {
+  display: inline-block;
+  margin-left: 20px;
+}
 
 #meuaprendizado {
     background-color: green;
     width: 400px;
-    margin-left: 450px;
     border-radius: 15px;
-    
     
 }
 
+.lado-esquerdo {
+   display: inline-block;
+  
+}
 
-
+table {
+margin: auto;
+}
 
 
  #rodape {
