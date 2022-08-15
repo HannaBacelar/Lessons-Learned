@@ -8,7 +8,7 @@
 
 
 # Contextualizando
-O projeto liçoes aprendidas é uma página simples com HTML e Css, la possui tudo que aprendi no curso da trybe naquele periódo.
+O projeto liçoes aprendidas é uma página simples com HTML e Css, la possui uma lista de tudo que aprendi no curso da trybe naquele periódo.
 
 # Como Instalar  e configurar 
   1. Clone o repositório
